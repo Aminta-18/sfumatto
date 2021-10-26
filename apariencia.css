@@ -1,8 +1,21 @@
-div class="Titulo" {
-    border-left: 400px;
+header {
+    
+    background-color : lightgrey;
+    padding-left: 200px;
+    
+}
+    
+body {
     background-color: #D8D8D8;
     padding-top: 20px;
-    border-top: 1px solid 
+    border-top: 1px solid ;
+    padding-bottom: 20px;
 }
 
+footer{
+    background-color: lightgrey;
+    padding-top: 50px;
+    border-top:5px solid red;
+
+}
 
